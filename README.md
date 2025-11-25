@@ -1,4 +1,4 @@
-# EXP-3
+![XNOR(circuit diagram)](https://github.com/user-attachments/assets/6e1b8897-c883-489b-8b3b-c57a4c1a307b)# EXP-3
 EXPT NO: 3				STAIR CASE WIRING                     
 
  
@@ -39,12 +39,24 @@ switch2.
 •  Circuit is tested for all possible combination of switch positions.
 
 
-Direct connection: CIRCUIT DIAGRAM: 
-Tabulation:1
-	
-Cross connection: CIRCUIT DIAGRAM:
+Direct connection: CIRCUIT DIAGRAM: ![XNOR(circuit diagram)](https://github.com/user-attachments/assets/ea72e6d2-b468-48cc-8cad-85b0dfbd4c9b)
+<img width="1920" height="1080" alt="direct xnor on" src="https://github.com/user-attachments/assets/260fd7fd-1096-4e2c-b9b0-502d4c628db0" />
+<img width="1920" height="1080" alt="direct xnor off" src="https://github.com/user-attachments/assets/b2c9ff66-f601-4e6b-a1f2-314104ee4dea" />
 
-Tabulation:2
+
+
+Tabulation:1:![Xnor table](https://github.com/user-attachments/assets/fa29fcb3-09c8-43f0-9bad-79dadb4ae6c8)
+
+	
+Cross connection: CIRCUIT DIAGRAM:![XOR(Circuit diagram)](https://github.com/user-attachments/assets/3ca223c3-8f11-4347-a614-cc5d726fa177)
+<img width="1920" height="1080" alt="cross xor on" src="https://github.com/user-attachments/assets/8b0b4f67-4004-457d-8296-3bf4c803c909" />
+<img width="1920" height="1080" alt="cross xor off" src="https://github.com/user-attachments/assets/e7376df2-357e-4c61-8fee-fc35539c29a2" />
+
+
+
+
+Tabulation:2:![XOR table](https://github.com/user-attachments/assets/48641d3b-3aac-4e4f-ba0d-4fd4db688323)
+
 
 RESULT:
 Thus the staircase wiring is connected and tested.
