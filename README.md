@@ -1,4 +1,4 @@
-![XNOR(circuit diagram)](https://github.com/user-attachments/assets/6e1b8897-c883-489b-8b3b-c57a4c1a307b)# EXP-3
+
 EXPT NO: 3				STAIR CASE WIRING                     
 
  
